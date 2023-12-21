@@ -1,0 +1,4 @@
+- https://dencode.com/en/string/hex
+- https://www.w3resource.com/java-exercises/basic/java-basic-exercise-40.php
+- https://mkyong.com/java/how-to-convert-array-of-bytes-into-file/
+- 
